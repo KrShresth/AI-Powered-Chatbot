@@ -1,7 +1,7 @@
 streamlit
 PyAudio
 langchain-community
-langchain-core
+langchain_core
 langchain
 pydantic 
 dotenv 
